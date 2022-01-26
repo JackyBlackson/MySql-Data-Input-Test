@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nq2h1r3GMUjCrHsSQyCPJiJezYZ8rwx6RKv4OELKaU/kZyM9/i5yhcM/JHpS1e+/C3/F6jWH+4RxwWkRQu5vwQ==",
+  "dgSpecHash": "YoVAyGup0E2DAp94XWHEagrGgrsZ5Wgw1hLJZRFU/PW1ex+LMdy042TgFhm72mGC+gCzOWxBua5D9g9rzSb3yw==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Repository\\Git\\MySql-Data-Input-Test\\MySql-Data-Input-Test\\MySql-Data-Input-Test.csproj",
+  "projectFilePath": "C:\\Users\\Jacky\\source\\repos\\TCP_LongConnection_Server\\.Net-TCP-LongConnection-Manager\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
